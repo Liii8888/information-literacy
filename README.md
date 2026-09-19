@@ -2,7 +2,7 @@
 
 **面向 Agent 的信息检索与证据核验 Skill。** 用于信息素养练习、资料查询，以及规则明确允许并由用户授权的辅助答题。
 
-署名：**[Liii8888](https://github.com/Liii8888) · Codex（AI辅助编写）**。维护者：Liii8888。项目仓库：[Liii8888/information-literacy](https://github.com/Liii8888/information-literacy)。采用 MIT 许可。包内没有私人题库、真实试卷、成绩记录、账号、认证会话或第三方全文。
+采用 [MIT 许可](LICENSE)。包内没有私人题库、真实试卷、成绩记录、账号、认证会话或第三方全文。
 
 ## 能做什么
 
