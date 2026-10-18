@@ -1,4 +1,4 @@
 interface:
-  display_name: "AI+信息素养淘汰赛"
-  short_description: "淘汰赛对话初始化、个人与团队截图练习、状态核验及复盘流程"
-  default_prompt: "使用 $information-literacy-knockout 准备淘汰赛个人练习对话，按初始化 SOP 核对就绪状态。"
+  display_name: "淘汰赛 Chat 初始化"
+  short_description: "供 Agent 赛前初始化淘汰赛网页版 Chat，加载全文并核验零题就绪"
+  default_prompt: "使用 $information-literacy-knockout 在赛前初始化个人赛 DeepSeek 网页版 Chat，开启深度思考和联网搜索、发送对应全文并核验零题就绪。"
