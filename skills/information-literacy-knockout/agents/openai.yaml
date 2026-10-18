@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI+信息素养淘汰赛"
+  short_description: "淘汰赛对话初始化、个人与团队截图练习、状态核验及复盘流程"
+  default_prompt: "使用 $information-literacy-knockout 准备淘汰赛个人练习对话，按初始化 SOP 核对就绪状态。"
